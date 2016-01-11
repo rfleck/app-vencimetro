@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7DF105B9022369AB3080AFB393381D877B328D9B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7DF105B9022369AB3080AFB393381D877B328D9B" : 0,
+    "9256E63C3B65EAAB850F1DE1C11DB3C5BB5CA04C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "54CDA7EA-D182-4E2A-9D2B-EBEDF70385B0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7DF105B9022369AB3080AFB393381D877B328D9B" : "app-vencimetro\/",
+    "9256E63C3B65EAAB850F1DE1C11DB3C5BB5CA04C" : "app-vencimetro\/app-vencimetro\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "app-vencimetro",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "app-vencimetro.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rfleck\/app-vencimetro.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7DF105B9022369AB3080AFB393381D877B328D9B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "app-vencimetro",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9256E63C3B65EAAB850F1DE1C11DB3C5BB5CA04C"
+    }
+  ]
+}
