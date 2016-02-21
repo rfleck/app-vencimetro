@@ -108,10 +108,10 @@
 		ABD7795B1C1302100004C30A /* app-vencimetro */ = {
 			isa = PBXGroup;
 			children = (
-				ABF2DF701C4363B400AB7D75 /* images */,
 				ABD779681C1302100004C30A /* Info.plist */,
 				ABD779631C1302100004C30A /* Assets.xcassets */,
 				ABA71C9C1C133AA900C0DCDF /* controllers */,
+				ABF2DF701C4363B400AB7D75 /* images */,
 				ABA71C9E1C133AE000C0DCDF /* models */,
 				ABA71CA11C13679200C0DCDF /* services */,
 				ABA71C9D1C133AD500C0DCDF /* views */,
